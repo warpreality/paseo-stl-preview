@@ -1,0 +1,9 @@
+{
+  "id": "paseo-stl-preview",
+  "name": "STL preview",
+  "description": "Interactive 3D preview for STL files in the file tab.",
+  "media": [],
+  "requirements": {
+    "paseo": ">=0.16.2"
+  }
+}
